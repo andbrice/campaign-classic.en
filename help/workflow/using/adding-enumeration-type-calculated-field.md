@@ -24,7 +24,7 @@ Here we want to create a query with an **[!UICONTROL Enumerations]** type calcul
 
 * Criteria which the information will be filtered based on?
 
-  The rrecipient language
+  The recipient language
 
 Apply the following steps:
 
